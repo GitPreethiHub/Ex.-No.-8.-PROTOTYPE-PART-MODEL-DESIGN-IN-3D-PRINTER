@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+![image](https://github.com/GitPreethiHub/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119475585/5a0ba7da-b24a-45c5-8260-a54d70444373)
+### Name: Preethi M
+### Register Number: 212222100037
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
